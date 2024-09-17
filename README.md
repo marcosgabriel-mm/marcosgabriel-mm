@@ -1,11 +1,10 @@
 # Sobre Mim 🪂
 
-Opa, me chamo Marcos Gabriel 😺, no momento estou cursando Engenharia de Software na Universidade Federal do Ceará (UFC). Faço parte do Laboratório de Tecnologias Inovadoras (LTI), trabalhando com sistemas embarcados 🔌📡, para automação das residências universitárias de Fortaleza 🏡.
+Olá, eu sou Marcos Gabriel, estudante de Engenharia de Software na Universidade Federal do Ceará (UFC). Faço parte do Laboratório de Tecnologias Inovadoras **(LTI)**, onde trabalho com sistemas embarcados 🔌📡, desenvolvendo soluções para **automação na entrada de residências**🏡, além de trabalhar com **Agricultura Inteligente** com a utilização de sensores ***RFID***.
 
 ## Interesses 📘
 
 - Desenvolvimento Mobile
-- Análise de Dados 
 - Sistemas Embarcados
 
 # Ferrarmentas e Tecnologias 🛠
