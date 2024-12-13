@@ -1,18 +1,19 @@
 # Sobre Mim 🪂
 
-Olá, eu sou Marcos Gabriel, estudante de Engenharia de Software na Universidade Federal do Ceará (UFC). Faço parte do Laboratório de Tecnologias Inovadoras **(LTI)**, onde trabalho com sistemas embarcados 🔌📡, desenvolvendo soluções para **automação na entrada de residências**🏡, além de trabalhar com **Agricultura Inteligente** com a utilização de sensores ***RFID***.
+Olá 🖐️, eu sou Marcos Gabriel, estudante de Engenharia de Software na Universidade Federal do Ceará (UFC). Faço parte do Laboratório de Tecnologias Inovadoras **(LTI)**, onde trabalhei com sistemas embarcados 🔌📡, tendo desenvolvido uma solução para **automação na entrada de residências**🏡, e altuamente trabalhando com **Agricultura Inteligente** com a utilização de sensores ***RFID***, além de tabralhar com desenvolvimento Backend 💻, participando ainda de uma residência da iUUL de backend.
 
 ## Interesses 📘
 
 - Desenvolvimento Mobile
 - Sistemas Embarcados
+- Desenvolvimento Backend
 
 # Ferrarmentas e Tecnologias 🛠
 
 Algumas das *Ferrarmentas e Tecnologias* utilizadas em alguns dos projetos feitos.
 
 <div align="center">
-  <img width="660" alt="Ferramentas e Tecnologias" src="https://github.com/marcosgabriel-mm/marcosgabriel-mm/assets/87018862/181108ee-cda5-4bcf-8695-a47621095200">
+  <img width="660" alt="Ferramentas e Tecnologias" src="https://github.com/user-attachments/assets/8f1b0056-7d59-4cbc-a2db-b204180565a3">
 </div>
 
 <!--
